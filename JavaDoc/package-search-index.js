@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Controllers.AtackStrategy"},{"l":"Controllers.CaracterCreation"},{"l":"Controllers.ControllersEntidade"},{"l":"Domain"},{"l":"Domain.Entidades"},{"l":"Domain.Items"},{"l":"Repository"},{"l":"Tools"},{"l":"View"}];updateSearchResults();

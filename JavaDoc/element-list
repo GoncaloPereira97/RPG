@@ -1,0 +1,10 @@
+unnamed package
+Controllers.AtackStrategy
+Controllers.CaracterCreation
+Controllers.ControllersEntidade
+Domain
+Domain.Entidades
+Domain.Items
+Repository
+Tools
+View

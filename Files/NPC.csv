@@ -1,0 +1,19 @@
+tipoNPC, nome, maxHP, HP, strength, inteligence, dexterity, primaryWeapon;era
+inimigo;Ladrão Guerreiro;75;75;12;5;5;Chicote de Armas;medieval
+inimigo;Ladrão Arqueiro;70;70;5;5;12;Arco Longo;medieval
+inimigo;Morlock Bruto;90;90;15;6;6;Arco Longo;medieval
+inimigo;Morlock Magico;90;90;6;15;6;Bastao de Madeira;medieval
+inimigo;Golem;110;110;20;12;12;Desmontador;medieval
+inimigo Boss;Nazgûl;600;600;30;30;30;Misericórdia;medieval
+vendedor lendario;Gimli;1000;1000;1000;1000;1000;Concussion;medieval
+vendedor;Toy;1000;1000;1000;1000;1000;Concussion;medieval
+vendedor;José Mourinho;1000;1000;1000;1000;1000;Concussion;medieval
+inimigo;Android Descontrolado;75;75;12;5;5;Neo Hammer;2077
+inimigo;Android Descontrolado;70;70;5;5;12;Holger 554;2077
+inimigo;Hacker de Rua;80;80;6;15;6;Iron-Man Arm;2077
+inimigo;Executivo NexCorp;90;90;6;6;15;DG-58;2077
+inimigo;Guarda de Elite;110;110;12;12;20;MCW;2077
+inimigo Boss;Rick Sanchez;600;600;30;30;30;Optimus-Prime Arm;2077
+vendedor lendario;Vitor Santos;1000;1000;1000;1000;1000;Optimus-Prime Arm;2077
+vendedor;Neo;1000;1000;1000;1000;1000;MCW;2077
+vendedor;Trinity;1000;1000;1000;1000;1000;MCW;2077

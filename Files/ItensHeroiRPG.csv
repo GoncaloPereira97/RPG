@@ -1,0 +1,33 @@
+tipo;nome;preco;heroisPermitidos;ataque;ataqueEspecial;ataqueInstantaneo;vida;primaryStat;era
+Arma Principal;Chicote de Armas;15;[Barbarian];5;10;0;5;5;medieval
+Arma Principal;Desmontador;20;[Barbarian];10;15;0;7;7;medieval
+Arma Principal;Misericórdia;25;[Barbarian];15;20;0;9;10;medieval
+Arma Principal;Bastao de Madeira;15;[Wizard];5;15;0;3;5;medieval
+Arma Principal;Gnarlwood;20;[Wizard];10;20;0;6;7;medieval
+Arma Principal;Hot Rod;25;[Wizard];15;25;0;7;10;medieval
+Arma Principal;Arco Longo;15;[Ranger];5;10;0;4;5;medieval
+Arma Principal;Recurve Bow;20;[Ranger];10;15;0;6;7;medieval
+Arma Principal;Firestarter;25;[Ranger];15;20;0;8;10;medieval
+Arma Principal;Neo Hammer;15;[Brute];5;10;0;5;5;2077
+Arma Principal;Bonesnapper;20;[Brute];10;15;0;7;7;2077
+Arma Principal;Concussion;25;[Brute];15;20;0;9;10;2077
+Arma Principal;Braco Robotico;15;[Techie];5;15;0;3;5;2077
+Arma Principal;Iron-Man Arm;20;[Techie];10;20;0;6;7;2077
+Arma Principal;Optimus-Prime Arm;25;[Techie];15;25;0;7;10;2077
+Arma Principal;Holger 554;15;[Soldier];5;10;0;4;5;2077
+Arma Principal;DG-58;20;[Soldier];10;15;0;6;7;2077
+Arma Principal;MCW;25;[Soldier];15;20;0;8;10;2077
+Arma Lendaria;Anduril;0;[Barbarian];80;75;0;20;35;medieval
+Arma Lendaria;Staff de Gandalf;0;[Wizard];80;150;0;30;15;medieval
+Arma Lendaria;Arco de Legolas;0;[Ranger];80;100;0;20;20;medieval
+Arma Lendaria;Stormbreaker;0;[Brute];80;150;0;20;35;2077
+Arma Lendaria;Atom Arm;0;[Techie];80;150;0;20;35;2077
+Arma Lendaria;AK-47;0;[Soldier];80;150;0;20;35;2077
+Consumivel Combate;Granada Explosiva;10;[Techie,Soldier,Brute];0;0;30;0;0;2077
+Consumivel Combate;Granada de Gás;10;[Techie,Soldier,Brute];0;0;5;0;0;2077
+Consumivel Combate;Bomba de Espinhos;10;[Wizard,Ranger,Barbarian];0;0;30;0;0;medieval
+Consumivel Combate;Bomba de Gás;10;[Wizard,Ranger,Barbarian];0;0;5;0;0;medieval
+Pocao;Garrafa de Favaios;5;[Wizard,Ranger,Barbarian];0;0;0;60;3;medieval
+Pocao;Sangue de Bruxa;18;[Wizard,Ranger,Barbarian];0;0;0;-15;15;medieval
+Pocao;Gasolina 95;18;[Techie,Soldier,Brute];0;0;0;60;3;2077
+Pocao;Injecao Atómica;18;[Techie,Soldier,Brute];0;0;0;-15;15;2077
